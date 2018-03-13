@@ -4532,9 +4532,9 @@ react-native-gesture-handler@1.0.0-alpha.30:
   dependencies:
     prop-types "^15.5.10"
 
-react-native-image-pan-zoom@^2.0.10:
-  version "2.0.10"
-  resolved "http://registry.npm.taobao.org/react-native-image-pan-zoom/download/react-native-image-pan-zoom-2.0.10.tgz#becc93db8687f9d954a2869591252136b1bf5705"
+react-native-image-pan-zoom@^2.0.16:
+  version "2.0.17"
+  resolved "https://registry.yarnpkg.com/react-native-image-pan-zoom/-/react-native-image-pan-zoom-2.0.17.tgz#c0d21bead368d149a0c62813d0e44ea5ad4698a4"
 
 react-native-maps@0.17.1:
   version "0.17.1"

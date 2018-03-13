@@ -85,7 +85,8 @@ export default (
     },
     loadingContainer: {
       justifyContent: "center",
-      alignItems: "center"
+      alignItems: "center",
+      flex: 1
     },
     arrowLeftContainer: {
       position: "absolute",

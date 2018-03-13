@@ -106,7 +106,7 @@ export class Props {
   public renderIndicator?: (
     currentIndex?: number,
     allSize?: number
-  ) => React.ReactElement<any> = (currentIndex: number, allSize: number) => {
+  ) => React.ReactElement<any> = (currentIndex?: number, allSize?: number) => {
     return React.createElement(
       View,
       { style: simpleStyle.count },

@@ -1,3 +1,7 @@
 {
-  "extends": "ascoders-tslint-config"
+  "extends": "ascoders-tslint-config",
+  "rules": {
+    "semicolon": [true, "never"],
+    "no-unused-variable": true
+  }
 }
